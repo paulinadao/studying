@@ -1,0 +1,7 @@
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\UnitTestProject1\obj\Debug\Studying.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\UnitTestProject1\bin\Debug\Studying.exe
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\UnitTestProject1\bin\Debug\Studying.pdb
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\UnitTestProject1\bin\Debug\Studying.UnitTests.dll
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\UnitTestProject1\bin\Debug\Studying.UnitTests.pdb
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\UnitTestProject1\obj\Debug\Studying.UnitTests.dll
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\UnitTestProject1\obj\Debug\Studying.UnitTests.pdb
