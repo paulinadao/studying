@@ -1,0 +1,5 @@
+c:\users\pdao\documents\visual studio 2013\Projects\Studying\Studying\bin\Debug\Studying.exe.config
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\Studying\bin\Debug\Studying.exe
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\Studying\bin\Debug\Studying.pdb
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\Studying\obj\Debug\Studying.exe
+C:\Users\pdao\Documents\Visual Studio 2013\Projects\Studying\Studying\obj\Debug\Studying.pdb
